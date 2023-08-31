@@ -1,0 +1,29 @@
+#include <types.h> 
+
+#ifndef _TILESETWALKER_1_150_H
+#define _TILESETWALKER_1_150_H
+//extern const UINT8 TILESETWALKER_1_25[];
+#define WALKER_1_25_TILE_COUNT 143
+
+
+//extern const UINT8 TILESETWALKER_26_50[];
+#define WALKER_26_50_TILE_COUNT 144
+
+
+//extern const UINT8 TILESETWALKER_51_75[];
+#define WALKER_51_75_TILE_COUNT 140
+
+
+//extern const UINT8 TILESETWALKER_76_100[];
+#define WALKER_76_100_TILE_COUNT 142
+
+
+//extern const UINT8 TILESETWALKER_101_125[];
+#define WALKER_101_125_TILE_COUNT 141
+
+
+//extern const UINT8 TILESETWALKER_126_150[];
+#define WALKER_126_150_TILE_COUNT 159
+
+
+#endif

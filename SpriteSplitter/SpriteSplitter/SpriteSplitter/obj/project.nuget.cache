@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "m5VDCtuiZQEx37NXwQRfOu0huI46S0wo5m3IikvAvEykvGeM2HtPJpjZJimJ91GHnRnguh8MpZPxtFj1CLEHhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\Desktop\\Gameboy_dev\\Alternate_realities\\SpriteSplitter\\SpriteSplitter\\SpriteSplitter\\SpriteSplitter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\bin\Debug\netcoreapp3.1\SpriteSplitter.exe
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\bin\Debug\netcoreapp3.1\SpriteSplitter.deps.json
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\bin\Debug\netcoreapp3.1\SpriteSplitter.runtimeconfig.json
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\bin\Debug\netcoreapp3.1\SpriteSplitter.runtimeconfig.dev.json
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\bin\Debug\netcoreapp3.1\SpriteSplitter.dll
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\bin\Debug\netcoreapp3.1\SpriteSplitter.pdb
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\obj\Debug\netcoreapp3.1\SpriteSplitter.csprojAssemblyReference.cache
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\obj\Debug\netcoreapp3.1\SpriteSplitter.AssemblyInfoInputs.cache
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\obj\Debug\netcoreapp3.1\SpriteSplitter.AssemblyInfo.cs
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\obj\Debug\netcoreapp3.1\SpriteSplitter.dll
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter\SpriteSplitter\obj\Debug\netcoreapp3.1\SpriteSplitter.pdb

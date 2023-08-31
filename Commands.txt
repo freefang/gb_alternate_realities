@@ -1,0 +1,9 @@
+img2gb-1.1.0 tileset --output-c-file=Sled.c --output-header-file=Sled.h --output-image=Sledsheet.png --deduplicate Sled.png
+
+img2gb-1.1.0 tilemap --output-c-file=tilemapSled.c --output-header-file=tilemapSled.h Sledsheet.png Sled.png
+
+
+
+rename "Cropped_*.png" "/////////////*.png"
+
+6 tileSets 25 images 5*5 images 120*120 pixels

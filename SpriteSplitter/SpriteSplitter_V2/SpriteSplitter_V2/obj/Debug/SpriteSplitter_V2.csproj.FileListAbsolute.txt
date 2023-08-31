@@ -1,0 +1,6 @@
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter_V2\SpriteSplitter_V2\bin\Debug\SpriteSplitter_V2.exe
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter_V2\SpriteSplitter_V2\bin\Debug\SpriteSplitter_V2.pdb
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter_V2\SpriteSplitter_V2\obj\Debug\SpriteSplitter_V2.csprojAssemblyReference.cache
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter_V2\SpriteSplitter_V2\obj\Debug\SpriteSplitter_V2.csproj.CoreCompileInputs.cache
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter_V2\SpriteSplitter_V2\obj\Debug\SpriteSplitter_V2.exe
+D:\Users\Alexander\Desktop\Gameboy_dev\Alternate_realities\SpriteSplitter\SpriteSplitter_V2\SpriteSplitter_V2\obj\Debug\SpriteSplitter_V2.pdb
